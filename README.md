@@ -5,7 +5,7 @@ This proposal outlines a machine learning-based system to recommend personalized
 
 ## 📖 Abstract
 
-Chemotherapy can alter taste perception, creating unique dietary challenges for patients. This system utilizes a dataset of 500,000 recipes and patient-specific profiles to recommend recipes tailored to individual preferences, symptoms, and dietary restrictions. Strategies such as incorporating strong flavors, using plastic utensils for metallic tastes, and adding texture diversity enhance personalization and the overall eating experience. This repo is mainly created to demonstrate how the algorithm will will work based on the paper given for evealuation.
+Chemotherapy can alter taste perception, creating unique dietary challenges for patients. This system utilizes a dataset of 500,000 recipes and patient-specific profiles to recommend recipes tailored to individual preferences, symptoms, and dietary restrictions. Strategies such as incorporating strong flavors, using plastic utensils for metallic tastes, and adding texture diversity enhance personalization and the overall eating experience. This repo is mainly created to demonstrate how the algorithm will  work based on the paper given for evealuation.
 
 ---
 
